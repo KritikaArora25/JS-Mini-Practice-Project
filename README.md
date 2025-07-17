@@ -37,10 +37,10 @@ Practice animation timing control using mouse coordinates.
 
 ## 📁 Folder Structure
 /JS-Mini-Practice-Project
-│
-├── index.html
-├── style.css
-└── script.js
+│ <br>
+├── index.html <br>
+├── style.css <br>
+└── script.js<br>
 
 ---
 
