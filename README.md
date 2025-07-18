@@ -1,6 +1,6 @@
 # 🎯 JS Mini Practice Project
 
-This repository contains small JavaScript DOM warmup projects to sharpen core event handling, animation, and interaction skills.
+This repository contains small JavaScript DOM "warmup" projects to sharpen core event handling, animation, and interaction skills.
 
 ---
 
