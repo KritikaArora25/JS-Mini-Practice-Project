@@ -49,7 +49,7 @@ These mini warmups are great for improving your grip on:
 - Mouse events (`mousemove`)
 - DOM manipulation
 - Color interpolation
-- Animation using `requestAnimationFrame`
+- Animation using `gsap and mapRange`
 
 ---
 
