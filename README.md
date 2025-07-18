@@ -28,10 +28,23 @@ Practice animation timing control using mouse coordinates.
 
 ---
 
+## 🔸 Project 3: Hover-to-Reveal Image Popup
+
+**Objective:**  
+- Create a `div` that shows an image **when the mouse hovers over it**.
+- The image should **appear ("pop up")** and then **disappear** once the mouse leaves.
+
+**Goal:**  
+Build interaction using `mouseenter` and `mouseleave` events, and animate appearance/disappearance of elements.
+
+---
+
 ## 🚀 Tech Stack
 - HTML
 - CSS
 - JavaScript (Vanilla)
+- GSAP (for animations)
+
 
 ---
 
